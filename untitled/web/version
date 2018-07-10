@@ -1,4 +1,17 @@
 {
-  "version_code": "1",
-  "url": "http://10.0.208.41:8080/app.apk"
+    "android_url": "http://10.0.224.229:8080/app.apk",
+    "android_version": "1",
+    "filesMd5": [
+        {
+            "md5": "DCA13D0067AA55F0AFCE59E467B61B6E",
+            "page": "/pages/home/index.js"
+        },
+        {
+            "md5": "50ed903231bcdc851bfde9a0bf565e38",
+            "page": "/iconfont/iconfont.ttf"
+        }
+    ],
+    "iOS_version": "1",
+    "jsVersion": "32A17AB8EF685F5034768DACBD321EA3",
+    "js_zip": "http://10.0.224.229:8080/web.zip"
 }
