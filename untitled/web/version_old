@@ -1,0 +1,16 @@
+{
+    "android_url": "/app.apk",
+    "android_version": "1",
+    "filesMd5": [
+        {
+            "md5": "DCA13D0067AA55F0AFCE59E467B61B6E",
+            "page": "/mine.js"
+        },
+        {
+            "md5": "1700388BB84B04C0249C258EE0A07AB7",
+            "page": "/you.js"
+        }
+    ],
+    "jsVersion": "32A17AB8EF685F5034768DACBD321EA3",
+    "js_zip": "/web.zip"
+}
