@@ -1,16 +1,48 @@
 {
     "android_url": "/app.apk",
-    "android_version": "1",
-    "filesMd5": [
+    "android_vs": "2",
+    "js_full_zip": "/full.zip",
+    "js_vs": "10",
+    "patch": [
         {
-            "md5": "DCA13D0067AA55F0AFCE59E467B61B6E",
-            "page": "/mine.js"
+            "js_vs": "10",
+            "package": "/patch_10.zip"
         },
         {
-            "md5": "1700388BB84B04C0249C258EE0A07AB7",
-            "page": "/you.js"
+            "js_vs": "9",
+            "package": "/patch_9.zip"
+        },
+        {
+            "js_vs": "8",
+            "package": "/patch_8.zip"
+        },
+        {
+            "js_vs": "7",
+            "package": "/patch_7.zip"
+        },
+        {
+            "js_vs": "6",
+            "package": "/patch_6.zip"
+        },
+        {
+            "js_vs": "5",
+            "package": "/patch_5.zip"
+        },
+        {
+            "js_vs": "4",
+            "package": "/patch_4.zip"
+        },
+        {
+            "js_vs": "3",
+            "package": "/patch_3.zip"
+        },
+        {
+            "js_vs": "2",
+            "package": "/patch_2.zip"
+        },
+        {
+            "js_vs": "1",
+            "package": "/patch_1.zip"
         }
-    ],
-    "jsVersion": "32A17AB8EF685F5034768DACBD321EA3",
-    "js_zip": "/web.zip"
+    ]
 }
